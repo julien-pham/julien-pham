@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julien.</h1>
+<h1 align="center">Hi, I'm Julien 👋</h1>
 <h3 align="center">Data Scientist Intern at SAS Institute</h3>
 
 - 👨‍💻 Check out my projects and learn more about me on my <a href="https://julien-pham.github.io/portfolio/" target="_blank" rel="noopener noreferrer">portfolio</a>.  
