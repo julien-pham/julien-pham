@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julien.</h1>
-<h3 align="center">Data Scientist Intern at SAS Institute.</h3>
+<h1 align="center">Hello, I'm Julien ! 👋</h1>
+<h3 align="center">Consultant Data Scientist Intern at SAS Institute.</h3>
 
 - 👨‍💻 You can explore all my projects here: <a href="https://julien-pham.github.io/portfolio/" target="_blank">https://julien-pham.github.io/portfolio/</a>
 
