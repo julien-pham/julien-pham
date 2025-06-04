@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist Intern at SAS Institute</h3>
 
 <p align="center">
-  📧 Email: available on my <a href="https://julien-pham.github.io/portfolio/" target="_blank">portfolio</a>  
+  📧 Email: phamju10gmail.com </a>  
 </p>
 
 <p align="center">
