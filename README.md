@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Julien 👋</h1>
-<h3 align="center">Data Scientist Intern at SAS Institute</h3>
+<h3 align="center">Data Scientist at SAS Institute</h3>
 
 <p align="center">
   📧 Email: phamju10gmail.com </a>  
