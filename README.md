@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm Julien 👋</h1>
 <h3 align="center">Data Scientist at SAS Institute</h3>
 
-<p align="center">
-  📧 Email: phamju10gmail.com </a>  
-</p>
-
-<p align="center">
-  <a href="https://julien-pham.github.io/portfolio/" target="_blank">🌐 Portfolio</a> |
-  <a href="https://linkedin.com/in/julienpha" target="_blank">💼 LinkedIn</a>
-</p>
 
 ---
 
